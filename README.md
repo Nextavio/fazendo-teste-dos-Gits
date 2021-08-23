@@ -1,2 +1,2 @@
 # fazendo-teste-dos-Gits
-so tetando o git
+so testando o  git hub
